@@ -1,5 +1,5 @@
 # Express + TS + Nodemon
 
-npm i package-name@latest
+npm update --save
 
 nodemon.json > "exec": "tsc & ts-node dist/server.js"
